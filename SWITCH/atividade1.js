@@ -13,10 +13,9 @@ switch (escolherProdutos) {
 
     case 3: 
         console.log("Você escolheu Macarrão");
-        
-        break;
+    break;
 
     default:
         console.log("Resposta inválida. Escolha 1, 2 ou 3");
-        break;
+    break;
 }
