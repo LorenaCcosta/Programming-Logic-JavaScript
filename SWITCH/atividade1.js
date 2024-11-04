@@ -1,7 +1,6 @@
 const readlineSync = require('readline-sync');
 
 const escolherProdutos = readlineSync.questionInt("Qual produto deseja comprar? (1 = Arroz, 2 = Feijao, 3 = Macarrao): ")
-
 switch (escolherProdutos) {
     case 1: 
         console.log("Você escolheu Arroz");
