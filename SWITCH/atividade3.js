@@ -1,14 +1,14 @@
 const readlineSync = require('readline-sync');
 
-const escolherPlanos = readlineSync.questionInt("Qual plano de telefonia que você deseja? (1 = Basico, 2 = Intermediario , 3 = Premium):")
+const escolherPlanos = readlineSync.questionInt("Qual plano de telefonia voce deseja? (1 = Basico, 2 = Intermediario , 3 = Premium):")
 
 switch (escolherPlanos) {
     case 1: 
-        console.log("Com o plano Básico você pode fazer até 5 ligações internacionais por mês, 10GB de internet para usar onde quiser e mais 2GB de pacote Bônus de internet pagando sua fatura todo mês no pix!");
+        console.log("Com o plano Básico você pode fazer até 2 ligações internacionais por mês, 10GB de internet para usar onde quiser e mais 2GB de pacote Bônus de internet pagando sua fatura todo mês no pix!");
     break;
 
     case 2:  
-        console.log("Com o plano Intermediário, você tem ligações ilimitadas para fora do país para ligar para quem quiser, 32GB de internet e whatsApp ilimitado! ");
+        console.log("Com o plano Intermediário, você tem ligações ilimitadas para fora do país para ligar para onde quiser, 32GB de internet e whatsApp ilimitado! ");
     break;
 
     case 3: 
