@@ -1,14 +1,14 @@
 const readlineSync = require('readline-sync');
 
-const modoPagamento = readlineSync.questionInt("Qual será o modo de pagamento? (1 = Cartao de Credito, 2 = Cartao de Debito , 3 = Boleto):")
+const modoPagamento = readlineSync.questionInt("Qual sera o modo de pagamento? (1 = Cartao de Credito, 2 = Cartao de Debito , 3 = Boleto):")
 
-switch (escolherPlanos) {
+switch (modoPagamento) {
     case 1: 
-        console.log("Pagamento concluido com o cartão de credito final 6602");
+        console.log("Pagamento concluido com o cartão de credito final xxxx");
     break;
 
     case 2:  
-        console.log("Pagamento concluido com o cartão de debito final 3206");
+        console.log("Pagamento concluido com o cartão de debito final xxxx");
     break;
 
     case 3: 
