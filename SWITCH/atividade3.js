@@ -18,5 +18,5 @@ switch (escolherPlanos) {
 
     default:
         console.log("Resposta inválida. Escolha 1, 2 ou 3");
-        preco = 0;
     break;
+}
