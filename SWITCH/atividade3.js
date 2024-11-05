@@ -13,7 +13,7 @@ switch (escolherPlanos) {
     break;
 
     case 3:
-        console.log("Com o plano Premium, você tem 56GB de internet, ligações ilimitadas para fora e dentro do país, incluso a proteção do seu smartphone durante 12 meses, além de concorrer a um smartphone Samsung Galaxy S24 Ultra todo mês pagando no cartão de crédito! Por apenas 109,99!");
+        console.log("Com o plano Premium, você tem 56GB de internet, ligações ilimitadas para fora e dentro do país, incluso a proteção do seu smartphone durante 12 meses, além de concorrer a um SmartPhone Samsung Galaxy S24 Ultra todo mês pagando no cartão de crédito! Por apenas 109,99!");
     break;
 
     default:
