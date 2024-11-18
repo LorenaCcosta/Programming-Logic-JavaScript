@@ -12,7 +12,7 @@ switch (escolherProdutos) {
     break;
 
     case 3: 
-        console.log("A tarifa do Táxi é de R$6,00");
+        console.log("A tarifa do Táxi é de R$6,00 por km");
         
         break;
 
