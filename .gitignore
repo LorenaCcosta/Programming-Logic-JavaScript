@@ -1,3 +1,3 @@
-node_modules
+node_modules\readline-sync
 package.json
 package-lock.json
