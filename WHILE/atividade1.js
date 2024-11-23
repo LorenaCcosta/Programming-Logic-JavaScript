@@ -4,8 +4,8 @@ const produtos = [
     { nome: "Moletom cinza", estoque: 36 },
     { nome: "Moletom preto", estoque: 26 },
     { nome: "Tenis branco", estoque: 17 },
-    { nome: "Tenis All Star", estoque: 0 },
-    { nome: "Tenis azul", estoque: 23 },
+    { nome: "Tenis All Star", estoque: 7 },
+    { nome: "Tenis azul", estoque: 0 },
     { nome: "Boné vermelho", estoque: 12 },
     
 ];
